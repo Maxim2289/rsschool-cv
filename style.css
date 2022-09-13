@@ -56,3 +56,11 @@
       footer {
         background-color: gold;
       }
+      .avatar{
+        width: 400px;
+        height: 350px;
+      }
+      .My_avatar{
+        width: 96px;
+        height: 50px;
+      }
