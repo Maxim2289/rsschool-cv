@@ -1,7 +1,7 @@
 .header {
     background-color: gold;
     }
-    
+
     body{
        font-family: 'Times New Roman', Times, serif;
        font-size: 18px;
@@ -33,7 +33,7 @@
     }
       .section-item a {
         color: #978299;
-        text-decoration: none;  
+        text-decoration: none;
         transition: color 0.5s;
       }
       .section-item a:hover {
